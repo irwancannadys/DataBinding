@@ -9,6 +9,7 @@ public class User extends BaseObservable {
     private String username;
     private String email;
 
+
     public String getUsername() {
         return username;
     }
